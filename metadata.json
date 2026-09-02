@@ -1,0 +1,6 @@
+{
+  "name": "Harika Butt Karahi",
+  "description": "Authentic Pakistani karahi and traditional favorites freshly prepared at Harika Butt Karahi, Blue Area Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
